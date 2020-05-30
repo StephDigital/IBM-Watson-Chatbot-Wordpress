@@ -69,7 +69,7 @@ It allow your chatbot to greet users and end conversations with them.
 
 ![](images/WatsonChatbotWordpress_14.png)
 
-## Fitth: Create a dialog
+## Fifth: Create a dialog
 
 A dialog is a structure in the form of a tree that defines the flow of the conversation. It creates links between intents (what the user says) and responses (what the robot says). 
 
